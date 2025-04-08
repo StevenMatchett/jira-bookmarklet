@@ -4,4 +4,3 @@ chrome.action.onClicked.addListener(function (tab) {
     files: ["bookmarklet.js"],
   });
 });
-
