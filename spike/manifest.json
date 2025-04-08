@@ -4,10 +4,10 @@
     },
     "action": {
         "default_icon": "icon-128.png",
-        "default_title": "Jira Autofill"
+        "default_title": "Spike ticket description populator"
     },
-    "name": "Jira Autofill",
-    "description": "Auto fill ticket - Created with http://blog.self.li",
+    "name": "Spike ticket description populator",
+    "description": "Spike ticket description populator - Created with http://blog.self.li",
     "homepage_url": "http://blog.self.li/post/16366939413/how-to-convert-bookmarklet-to-chrome-extension",
     "icons": {
         "16": "icon-16.png",
